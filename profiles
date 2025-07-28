@@ -4,7 +4,7 @@
     "email": "puneet2007@icloud.com",
     "github": "@PuneetGopinath",
     "skills": ["MERN Stack Dev", "Python"],
-    "availability_hours_per_week": ""
+    "availability_hours_per_week": "??"
   },
   {
     "name": "Varad Raj Aggrawal",
@@ -17,9 +17,66 @@
   {
     "name": "Amartya",
     "email": "amartya6969@gmail.com",
-    "github": "@Varadraj75",
-    "skills": ["Basic Java", "Very Well Equiped with Python", "Decent WebDev"],
-    "notable projects": ["https://varadraj75.github.io/Portfolio/"]
-    "availability_hours_per_week": ""
+    "github": "@Amartya989870xxxx",
+    "skills": ["Good Vibe Coder"],
+    "notable projects": ["EchoWhisper"]
+    "availability_hours_per_week": "??"
+  },
+  {
+    "name": "Soumya Sagar",
+    "email": "N/A",
+    "github": "@Soumya-codr",
+    "skills": ["HTML", "CSS", "JS" , "Python"],
+    "notable projects": ["https://soumya-codr.github.io/Soumya-codr/"]
+    "availability_hours_per_week": "??"
+  },
+  {
+    "name": "Sultan Codes",
+    "email": "N/A",
+    "github": "@sultancodes7",
+    "skills": ["WebDev"],
+    "notable projects": ["None"]
+    "availability_hours_per_week": "??"
+  },
+  {
+    "name": "Mridul Gupta",
+    "email": "N/A",
+    "github": "@mricement65",
+    "skills": ["N/A"],
+    "notable projects": ["None"]
+    "availability_hours_per_week": "??"
+  },
+  {
+    "name": "Shreya",
+    "email": "N/A",
+    "github": "@Shreya2005-2005",
+    "age_in_years": "20",
+    "skills": ["N/A"],
+    "notable projects": ["None"]
+    "availability_hours_per_week": "??"
+  },
+  {
+    "name": "Sarthak Basu",
+    "email": "basusarthakmain@gmail.com",
+    "github": "@cosmicXphoenix",
+    "skills": ["Communication", "Leadership", "Bussiness", "Robotics", "AI"],
+    "notable projects": ["None"]
+    "availability_hours_per_week": "??"
+  },
+  {
+    "name": "aniktezas"
+    "email": "N/A",
+    "github": "aniktezas"
+    "skills": ["N/A"],
+    "notable projects": ["None"]
+    "availability_hours_per_week": "??"
+  },
+  {
+    "name": "Amogh",
+    "email": "N/A",
+    "github": "@Amogh17J",
+    "skills": ["N/A"],
+    "notable projects": ["None"]
+    "availability_hours_per_week": "??"
   }
 ]
