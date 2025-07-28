@@ -5,5 +5,21 @@
     "github": "@PuneetGopinath",
     "skills": ["MERN Stack Dev", "Python"],
     "availability_hours_per_week": ""
+  },
+  {
+    "name": "Varad Raj Aggrawal",
+    "email": "agrawalvaradraj2007@gmail.com",
+    "github": "@Varadraj75",
+    "skills": ["Basic Java", "Very Well Equiped with Python", "Decent WebDev"],
+    "notable projects": ["https://varadraj75.github.io/Portfolio/"]
+    "availability_hours_per_week": ""
+  },
+  {
+    "name": "Amartya",
+    "email": "amartya6969@gmail.com",
+    "github": "@Varadraj75",
+    "skills": ["Basic Java", "Very Well Equiped with Python", "Decent WebDev"],
+    "notable projects": ["https://varadraj75.github.io/Portfolio/"]
+    "availability_hours_per_week": ""
   }
 ]
