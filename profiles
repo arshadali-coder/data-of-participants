@@ -4,7 +4,7 @@
     "email": "puneet2007@icloud.com",
     "github": "@PuneetGopinath",
     "skills": ["MERN Stack Dev", "Python"],
-    "availability_hours_per_week": "??"
+    "availability_hours_per_week": "2"
   },
   {
     "name": "Varad Raj Aggrawal",
@@ -78,5 +78,13 @@
     "skills": ["N/A"],
     "notable projects": ["None"]
     "availability_hours_per_week": "??"
+  },
+  {
+    "name": "Sourashis Ghosh Roy",
+    "email": "N/A",
+    "github": "@NA",
+    "skills": ["N/A"],
+    "notable projects": ["None"]
+    "availability_hours_per_week": "20"
   }
 ]
